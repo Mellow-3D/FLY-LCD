@@ -1,6 +1,9 @@
 # Fly-LCD 43/50/70
 
-The diplay can be purchased from here https://www.aliexpress.com/item/1005005257187800.html
+The diplay can be purchased from here  
+https://www.aliexpress.com/item/1005005257187800.html
+
+https://www.youtube.com/watch?v=BxHxfFSkkoQ
 
 for DSI setup, you will need to add following setting into config.txt
 Please be aware for the direction when you insert the FFC cable.
